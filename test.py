@@ -1,3 +1,3 @@
 def abc():
 	return a+b
-print(abc())
+print(abc)
